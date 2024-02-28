@@ -1,0 +1,6 @@
+# SIMPLE BASIC LOGIN FORM WITH JAVA AND MYSQL 
+
+## EQUIPMENTS
+# MYSQL work bench
+# MySQl connector/j 
+
